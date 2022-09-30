@@ -1,4 +1,3 @@
-from distutils.command.config import config
 import requests
 import lxml
 import spotipy
